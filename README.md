@@ -45,52 +45,11 @@ python-devops/
 
 ---
 
-## 🚀 Getting Started
-
 ### ✅ Prerequisites
 
 - Python **3.12.9** installed via **pyenv**
 - Git installed
 - VS Code (recommended)
-
----
-
-### ⚙️ Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR-USERNAME/python-devops.git
-cd python-devops
-
-# Create a virtual environment
-python -m venv .venv
-```
-
-#### Activate the virtual environment
-
-**Windows**
-
-```bash
-.venv\Scripts\activate
-```
-
-**macOS / Linux**
-
-```bash
-source .venv/bin/activate
-```
-
-#### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-#### Launch JupyterLab (for notebooks)
-
-```bash
-jupyter lab
-```
 
 ---
 
@@ -109,7 +68,7 @@ jupyter lab
 
 - **Course:** Python for DevOps: Mastering Real-World Automation
 - **Platform:** Udemy
-- **Instructor:** _[Instructor Name]_
+- **Instructor:** _[Lauro Fialho Müller]_
 - **Started:** December 2025
 
 ---
