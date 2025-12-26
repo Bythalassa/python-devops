@@ -31,8 +31,8 @@ python-devops/
 ├── logging/                 # [Coming soon]
 ├── multi-file-projects/     # [Coming soon]
 ├── typing                   # [Coming soon]
-├── COURSE-README.md         # ReadME file
-├── README.md                # ReadME file
+├── COURSE-README.md         # Course Overview
+├── README.md                # Repository Resume
 └── requirements.txt         # Python dependencies
 ```
 
