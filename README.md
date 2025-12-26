@@ -54,8 +54,6 @@ python-devops/
 
 ## 📚 Course Structure
 
-The repository is organized into modules, each corresponding to a section in the course. Here is an overview of what you will learn:
-
 - **virtual-envs**: Learn why virtual environments are essential and how to use Python's built-in `venv` module to create and manage isolated project environments.
 
 - **python-fundamentals**: Master the core building blocks of Python. This module covers variables, comments, data types (`str`, `int`, `list`, `dict`, `set`, `tuple`), conditionals, loops, functions, including `*args` and `**kwargs`, classes, among other topics
