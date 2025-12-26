@@ -13,21 +13,27 @@ This repository contains my learning materials and practice projects from the Ud
 
 ## 📌 Features
 
-Here is what you can do with repo name
-
-- Read all files with a similar nomination: title.ipynb
-- Upcoming Project using python ...
+- The folders are based on exercises or notebooks used during lessons.
 
 ## 📂 Repository Structure
 
 ```text
 python-devops/
-├── module-01/        # Python basics and environment setup
-├── module-02/        # [Coming soon]
-├── module-03/        # [Coming soon]
-├── notebooks/        # Jupyter notebooks for practice
-├── projects/         # Hands-on projects
-└── requirements.txt  # Python dependencies
+├── virtual-envs/            # Based on an exercise
+├── python-fundamentals/     # Jupyter Notebooks with Python concepts
+├── generator and decorators # [Coming soon]
+├── error-handling/          # [Coming soon]
+├── automated-testing/       # [Coming soon]
+├── files-regex-data-formats/# [Coming soon]
+├── automated-testing     # [Coming soon]
+├── http-requests/           # [Coming soon]
+├── interacting-with-os/     # [Coming soon]
+├── logging/                 # [Coming soon]
+├── multi-file-projects/     # [Coming soon]
+├── typing                   # [Coming soon]
+├── COURSE-README.md         # ReadME file
+├── README.md                # ReadME file
+└── requirements.txt         # Python dependencies
 ```
 
 ## 📝 Progress Tracker
