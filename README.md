@@ -76,4 +76,4 @@ python-devops/
 
 - **multi-file-projects**: Learn to structure larger Python applications. This module covers creating modules and packages (`__init__.py`), using absolute vs. relative imports, defining project metadata with `pyproject.toml`, and setting up a testable project layout.
 
-🕒 **Last updated:** December 17, 2025
+🕒 **Last updated:** December 26, 2025
