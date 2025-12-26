@@ -25,7 +25,7 @@ python-devops/
 ├── error-handling/          # [Coming soon]
 ├── automated-testing/       # [Coming soon]
 ├── files-regex-data-formats/# [Coming soon]
-├── automated-testing     # [Coming soon]
+├── automated-testing        # [Coming soon]
 ├── http-requests/           # [Coming soon]
 ├── interacting-with-os/     # [Coming soon]
 ├── logging/                 # [Coming soon]
@@ -39,7 +39,7 @@ python-devops/
 ## 📝 Progress Tracker
 
 - [x] Module 1: Environment setup with pyenv
-- [ ] Module 2: Python fundamentals
+- [x] Module 2: Python fundamentals
 - [ ] Module 3: Automation basics
 - [ ] Module 4: CI/CD pipelines
 - [ ] Module 5: Cloud integration
@@ -49,7 +49,7 @@ python-devops/
 
 - **Course:** Python for DevOps: Mastering Real-World Automation
 - **Platform:** Udemy
-- **Instructor:** _[Lauro Fialho Müller]_
+- **Instructor:** _Lauro Fialho Müller_
 - **Started:** December 2025
 
 ## 📚 Course Structure
